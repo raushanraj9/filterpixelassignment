@@ -24,3 +24,5 @@ Web Application that processes and displays previews of RAW images stored on the
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
+Hosted link: https://raushanrajfilterpixel.netlify.app/
+
